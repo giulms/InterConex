@@ -2,9 +2,9 @@
 
 Através da disciplina "Fundamentos de Desenvolvimento de Softwares", do 2º período de Análise e Desenvolvimento de Sistemas na CESAR School, desenvolvemos uma aplicação web, implementando DJango e os princípios de CRUD com banco de dados.
 
-##  Etapas do projeto:
+## 🎲 Etapas do projeto:
 
-
+🥇 - Na primeira etapa, deveríamos criar um Jira/Trello, que está disponível abaixo nesta documentação, e definir 10 histórias (funções) para nossa aplicação web. A partir destas histórias, deveríamos criar protótipos utilizando de sketches e storyboards, apresentando estes através de screencasts.
 
 <br>
 
