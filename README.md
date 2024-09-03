@@ -23,11 +23,27 @@ Através da disciplina "Fundamentos de Desenvolvimento de Softwares", do 2º per
 <br>
 
 <a href="https://www.linkedin.com/in/victor-santos-01242007111203200607/">
- <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/114593367?s=400&u=35dad9c7030300514c27e765de70b83b4073c802&v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/114593367?s=400&u=35dad9c7030300514c27e765de70b83b4073c802&v=4" width="100px;" alt="Victor"/>
+ <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/180231483?v=4" width="100px;" alt="Pedro"/>
+ <img style="border-radius: 50%" src="https://github.com/GustavoLino728" width="100px;" alt=""/>
+ <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/163598100?v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/163376922?v=4" width="100px;" alt="Giulliano"/>
+ <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/130097508?v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/166858981?v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/165433530?v=4" width="100px;" alt="Tavares"/>
 </a>
 
 
-Feito com ❤️ por Victor Barbosa e colaboradores 👋🏽 Entre em contato!
+Feito com ❤️ por:
+- Victor Barbosa
+- Pedro Fernandes
+- Gustavo Lino
+- ítalo Artur
+- Giulliano Lucas
+- Hailton Neto
+- Vinícius Macêdo
+- Artur Tavares
+👋🏽 Entre em contato!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-santos-01242007111203200607/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vituisdev/)
