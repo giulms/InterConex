@@ -17,7 +17,7 @@ Através da disciplina "Fundamentos de Desenvolvimento de Softwares", do 2º per
   <!--img align="center" alt="JS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"-->
 </div>
 
-## 🌐 Autor
+## 🌐 Autores
 ---
 <br>
 
@@ -42,11 +42,9 @@ Feito com ❤️ por:
 - Hailton Neto
 - Vinícius Macêdo
 - Artur Tavares
+
 👋🏽 Entre em contato!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-santos-01242007111203200607/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vituisdev/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:victorb.santos15@gmail.com)
 <br>
 <br>
 
