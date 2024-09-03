@@ -1,6 +1,9 @@
 # 📒 Documentação do Projeto
+---
 
 Através da disciplina "Fundamentos de Desenvolvimento de Softwares", do 2º período de Análise e Desenvolvimento de Sistemas na CESAR School, desenvolvemos uma aplicação web, implementando DJango e os princípios de CRUD com banco de dados.
+
+<br>
 
 ## 🎲 Etapas do projeto:
 
