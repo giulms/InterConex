@@ -72,12 +72,12 @@ Feito com ❤️ por:
 ## 🔗 Preview do Projeto
 ---
 
-<h1>Andamento do Trello</h1>
+<h1>📢 Andamento do Trello</h1>
 
 ![image](https://github.com/user-attachments/assets/5ec3e947-9546-4936-be02-001a27cfb31e)
 
 
-<h1>Histórias</h1>
+<h1>📃 Histórias</h1>
 
 <details>
   <summary><h3>🏅 01 - Cadastramento</h3></summary>
