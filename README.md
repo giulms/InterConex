@@ -80,6 +80,10 @@ Feito com ❤️ por:
 
 <h1>📃 Histórias</h1>
 
+
+https://github.com/user-attachments/assets/d8c92243-84f4-4c5a-8659-6424f1097813
+
+
 <details>
   <summary><h3>🏅 01 - Cadastramento</h3></summary>
   
@@ -100,7 +104,7 @@ Feito com ❤️ por:
   
   ```Conversa``` - //
   
-  ```Confirmação``` -  Através de um ícone de perfil, o usuário acessa o seu perfil e pode alterar as informações da empresa dele, por meio de um botão de ‘editar perfil’.
+  ```Confirmação``` -  Através de um ícone de perfil, o usuário acessa o seu perfil e pode alterar as informações da empresa dele, por meio de um botão de ‘editar perfil’.  
 </details>
 
 <details>
@@ -187,6 +191,11 @@ https://github.com/user-attachments/assets/bb559634-dd06-45bb-8df3-f8b61f7efe76
   ```Conversa``` - Estes usuários podem ser contratantes, candidatos para vagas, investidores ou qualquer outro usuário que deseja e/ou precisa estabelecer uma comunicação ativa.
   
   ```Confirmação``` -  Na seção de perfil, ou através das abas de contratações e investimentos, haverá um botão que enviará ao destinatário uma solicitação de contato, iniciando um chat na aba de conversas entre o remetente e o destinatário.
+
+
+https://github.com/user-attachments/assets/38c8b973-f085-448a-ada4-b8e93fbb669a
+
+
 </details>
 
 <details>
