@@ -88,6 +88,9 @@ Feito com ❤️ por:
   ```Conversa``` - //
   
   ```Confirmação``` -  Através de um formulário inicial, o usuário acrescentará as informações de seu negócio e enviará para o banco de dados do app, gerando seu perfil que poderá ser acessado   por outros usuários.
+
+
+  
 </details>
 
 <details>
@@ -108,6 +111,11 @@ Feito com ❤️ por:
   ```Conversa``` - //
   
   ```Confirmação``` -  Através de uma barra de pesquisa, onde o usuário pode encontrar outras empresas.
+
+
+https://github.com/user-attachments/assets/2085a864-4ff9-44ce-89de-3fb43d8bd698
+
+  
 </details>
 
 <details>
@@ -142,6 +150,11 @@ Feito com ❤️ por:
   ```Conversa``` - //
   
   ```Confirmação``` -  Na mesma aba de startups, o usuário/CEO pode acessar por meio de um botão a seção de investimentos, onde pode encontrar um investidor para sua empresa ou ser um investidor para outra empresa.
+
+
+https://github.com/user-attachments/assets/bb559634-dd06-45bb-8df3-f8b61f7efe76
+
+  
 </details>
 
 <details>
