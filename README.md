@@ -76,6 +76,7 @@ Feito com ❤️ por:
 
 ![image](https://github.com/user-attachments/assets/5ec3e947-9546-4936-be02-001a27cfb31e)
 
+<br>
 
 <h1>📃 Histórias</h1>
 
