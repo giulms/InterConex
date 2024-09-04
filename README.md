@@ -7,6 +7,9 @@ Através da disciplina "Fundamentos de Desenvolvimento de Softwares", do 2º per
 - Figma
 - Trello
 
+<img src="https://github.com/user-attachments/assets/2e585671-9441-4b52-9683-d2fbe8688f8d" width="150px" alt="Logo">
+
+
 <br>
 
 ## 🎲 Etapas do projeto:
@@ -66,6 +69,11 @@ Feito com ❤️ por:
 
 ## 🔗 Preview do Projeto
 ---
+
+<h1>Andamento do Trello</h1>
+
+![image](https://github.com/user-attachments/assets/5ec3e947-9546-4936-be02-001a27cfb31e)
+
 
 <h1>Histórias</h1>
 
