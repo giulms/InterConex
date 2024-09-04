@@ -7,8 +7,10 @@ Através da disciplina "Fundamentos de Desenvolvimento de Softwares", do 2º per
 - Figma
 - Trello
 
-<img src="https://github.com/user-attachments/assets/2e585671-9441-4b52-9683-d2fbe8688f8d" width="150px" alt="Logo">
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2e585671-9441-4b52-9683-d2fbe8688f8d" width="150px" alt="Logo">
+  <h3>InterConex</h3>
+</div>
 
 <br>
 
