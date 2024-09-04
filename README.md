@@ -94,6 +94,8 @@ https://github.com/user-attachments/assets/d8c92243-84f4-4c5a-8659-6424f1097813
   ```Confirmação``` -  Através de um formulário inicial, o usuário acrescentará as informações de seu negócio e enviará para o banco de dados do app, gerando seu perfil que poderá ser acessado   por outros usuários.
 
 
+https://github.com/user-attachments/assets/a2f603e9-b130-48b5-92d3-113bac73d4ae
+
   
 </details>
 
