@@ -63,7 +63,7 @@ Feito com ❤️ por:
 - Giulliano Lucas
 - Hailton Neto
 - Vinícius Macêdo
-- Artur Tavares
+- Arthur Tavares
 
 👋🏽 Entre em contato!
 
@@ -87,7 +87,7 @@ https://github.com/user-attachments/assets/d8c92243-84f4-4c5a-8659-6424f1097813
 <details>
   <summary><h3>🏅 01 - Cadastramento</h3></summary>
   
-  ```Cartão``` - Como empresa ou startup, eu gostaria de cadastrar meu negócio no aplicativo.
+  ```História``` - Como empresa ou startup, eu gostaria de cadastrar meu negócio no aplicativo.
   
   ```Conversa``` - //
   
@@ -102,7 +102,7 @@ https://github.com/user-attachments/assets/a2f603e9-b130-48b5-92d3-113bac73d4ae
 <details>
   <summary><h3>🏅 02 - Visualização de perfil</h3></summary>
   
-  ```Cartão``` - Como usuário, eu gostaria de visualizar o meu perfil e alterar informações dele.
+  ```História``` - Como usuário, eu gostaria de visualizar o meu perfil e alterar informações dele.
   
   ```Conversa``` - //
   
@@ -112,7 +112,7 @@ https://github.com/user-attachments/assets/a2f603e9-b130-48b5-92d3-113bac73d4ae
 <details>
   <summary><h3>🏅 03 - Pesquisa de empresas</h3></summary>
   
-  ```Cartão``` -  Como usuário, eu gostaria de pesquisar outras empresas.
+  ```História``` -  Como usuário, eu gostaria de pesquisar outras empresas.
   
   ```Conversa``` - //
   
@@ -127,7 +127,7 @@ https://github.com/user-attachments/assets/2085a864-4ff9-44ce-89de-3fb43d8bd698
 <details>
   <summary><h3>🏅 04 - Filtro por categorias</h3></summary>
   
-  ```Cartão``` - Como empresa ou startup, eu gostaria de filtrar outras empresas de acordo com categorias.
+  ```História``` - Como empresa ou startup, eu gostaria de filtrar outras empresas de acordo com categorias.
   
   ```Conversa``` - //
   
@@ -141,7 +141,7 @@ https://github.com/user-attachments/assets/2085a864-4ff9-44ce-89de-3fb43d8bd698
 <details>
   <summary><h3>🏅 05 - Criação de Startups</h3></summary>
   
-  ```Cartão``` - Como usuário, gostaria de criar startups.
+  ```História``` - Como usuário, gostaria de criar startups.
   
   ```Conversa``` - Esta criação poderá ser de diversas maneiras, desde contratando pessoas para projetos específicos até apresentando a startup e buscando colaboradores para a ideia principal.
   
@@ -151,7 +151,7 @@ https://github.com/user-attachments/assets/2085a864-4ff9-44ce-89de-3fb43d8bd698
 <details>
   <summary><h3>🏅 06 - Investimento em startups</h3></summary>
   
-  ```Cartão``` - Como usuário ou CEO, gostaria de investir ou procurar investidores para o meu negócio.
+  ```História``` - Como usuário ou CEO, gostaria de investir ou procurar investidores para o meu negócio.
   
   ```Conversa``` - //
   
@@ -166,7 +166,7 @@ https://github.com/user-attachments/assets/bb559634-dd06-45bb-8df3-f8b61f7efe76
 <details>
   <summary><h3>🏅 07 - Publicação de vagas</h3></summary>
   
-  ```Cartão``` - Como CEO de uma startup, eu gostaria de publicar vagas para projetos específicos ou para minha startup
+  ```História``` - Como CEO de uma startup, eu gostaria de publicar vagas para projetos específicos ou para minha startup
   
   ```Conversa``` - //
   
@@ -178,7 +178,7 @@ https://github.com/user-attachments/assets/bb559634-dd06-45bb-8df3-f8b61f7efe76
 <details>
   <summary><h3>🏅 08 - Espaço para freelancers</h3></summary>
   
-  ```Cartão``` - Eu como usuário, gostaria de oferecer meus serviços como freelancer para outras empresas/startups.
+  ```História``` - Eu como usuário, gostaria de oferecer meus serviços como freelancer para outras empresas/startups.
   
   ```Conversa``` - //
   
@@ -188,7 +188,7 @@ https://github.com/user-attachments/assets/bb559634-dd06-45bb-8df3-f8b61f7efe76
 <details>
   <summary><h3>🏅 09 - Chat entre usuários</h3></summary>
   
-  ```Cartão``` - Como usuário, gostaria de ter contato com outros usuários.
+  ```História``` - Como usuário, gostaria de ter contato com outros usuários.
   
   ```Conversa``` - Estes usuários podem ser contratantes, candidatos para vagas, investidores ou qualquer outro usuário que deseja e/ou precisa estabelecer uma comunicação ativa.
   
@@ -203,7 +203,7 @@ https://github.com/user-attachments/assets/38c8b973-f085-448a-ada4-b8e93fbb669a
 <details>
   <summary><h3>🏅 10 - Serviços de avaliação</h3></summary>
   
-  ```Cartão``` - Como usuário, gostaria de recomendar outras empresas, startups ou freelancers.
+  ```História``` - Como usuário, gostaria de recomendar outras empresas, startups ou freelancers.
   
   ```Conversa``` - //
   
@@ -213,7 +213,7 @@ https://github.com/user-attachments/assets/38c8b973-f085-448a-ada4-b8e93fbb669a
 <details>
   <summary><h3>🏅 11 - Publicação de usuários</h3></summary>
   
-  ```Cartão``` - Como usuário, gostaria de fazer publicações e interagir com outros usuários.
+  ```História``` - Como usuário, gostaria de fazer publicações e interagir com outros usuários.
   
   ```Conversa``` - //
   
