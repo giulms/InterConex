@@ -1,11 +1,6 @@
 import { createGlobalStyle } from "styled-components";
 
 export const GlobalStyle = createGlobalStyle`
-@font-face {
-    font-family: 'FuturaBold';
-    src: url('../src/assets/Futura Round Bold.ttf');
-}
-
 *::before,
 *::after {
     padding: 0;
@@ -27,9 +22,5 @@ html {
     word-wrap: break-word;
     overflow-wrap: break-word;
     overflow-x: hidden;
-}
-
-h1, h2, h3, h4, h5, h6{
-    font-family: 'FuturaBold';
 }
 `
