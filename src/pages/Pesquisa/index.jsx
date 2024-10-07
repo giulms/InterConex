@@ -1,12 +1,10 @@
-import Header from './components/Header';
+import Header from '../../components/Header';
 
 const Pesquisa = () => {
 
-  return (
-    <div className="App">
-      <Header />
-    </div>
-  );
+  return (<>
+    <Header/>
+  </>);
 }
 
 export default Pesquisa;

@@ -30,6 +30,7 @@
 
 .logo {
     height: 40px;
+    border-radius: 500px;
 }
 
 @media (min-width: 769px) {
