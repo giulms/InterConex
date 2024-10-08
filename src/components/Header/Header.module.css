@@ -31,13 +31,12 @@
 .logo {
     height: 40px;
     border-radius: 500px;
-    user-select: none;
-    -webkit-user-select: none;
 }
 
 @media (min-width: 769px) {
-    .menuButton {
-        display: none;
-    }
+        
+.menuButton {
+      display: none;
+}
 
 }

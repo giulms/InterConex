@@ -1,0 +1,26 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 100%;
+    height: 100vh;
+
+    background: linear-gradient(300deg, #280F3E, #461c6b, #6A28A4, #6f25b1, #741cc1);
+    background-size: 200% 200%;
+    animation: bgAnimate 8s ease infinite;
+}
+
+@keyframes bgAnimate {
+    0%{
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 100%;
+    }
+
+    100%{
+        background-position: 0% 50%;
+    }
+}
