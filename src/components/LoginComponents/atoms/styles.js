@@ -3,6 +3,7 @@ import styled from "styled-components";
 export const Wrapper = styled.div`
     display: flex;
     flex-direction: column;
+    align-items: flex-start;
 `
 
 export const BtnPrimary = styled.button`
@@ -94,4 +95,10 @@ export const InpPrimary = styled.input`
     &:focus{
         outline: 0;
     }
+`
+
+export const ErrorText = styled.p`
+    font-size: 12px;
+    color: red;
+    margin: -5px 0 10px 0;
 `
