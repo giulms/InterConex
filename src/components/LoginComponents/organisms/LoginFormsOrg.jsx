@@ -39,13 +39,9 @@ const containerVariants = {
 }
 
 // eslint-disable-next-line react/prop-types
-export const LoginForms = ({ handleSetIsLogin }) => {
+export const LoginForms = () => {
   return (
     <LoginFormsContainer
-      onSubmit={(event) => {
-        event.preventDefault();
-      }}
-
       variants={containerVariants}
       initial="initial"
       animate="animate"
@@ -60,7 +56,7 @@ export const LoginForms = ({ handleSetIsLogin }) => {
           <h1>Faça Login</h1>
         </TextContainer>
 
-        <FormsLogin handleSetIsLogin={handleSetIsLogin} />
+        <FormsLogin />
         <p>Ou faça login com:</p>
 
         <LoginRow>
