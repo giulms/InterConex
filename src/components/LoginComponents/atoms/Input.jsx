@@ -1,12 +1,11 @@
-import { InputContainer, IconContainer, InpPrimary, LabelInput, Wrapper } from "./styles"
+import { InputContainer, IconContainer, InpPrimary, Wrapper } from "./styles"
 
 // eslint-disable-next-line react/prop-types
-export const InputPrimary = ({ title, leftIcon, name, ...rest }) => {
+export const InputPrimary = ({ placeholder, leftIcon, name, ...rest }) => {
   return (<Wrapper>
-    <LabelInput htmlFor={name}>{title}</LabelInput>
     <InputContainer>
         {leftIcon ? (<IconContainer>{leftIcon}</IconContainer>) : null}
-        <InpPrimary name={name} {...rest}/>
+        <InpPrimary placeholder={placeholder} name={name} {...rest}/>
     </InputContainer>
     </Wrapper>)
 }

@@ -51,12 +51,6 @@ export const BtnSecondary = styled.button`
     }
 `
 
-export const LabelInput = styled.label`
-    margin-bottom: 5px;
-    color: #000;
-    font-size: 14px;
-`
-
 export const InputContainer = styled.div`
     width: 100%;
     height: 5vh;

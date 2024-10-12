@@ -14,8 +14,7 @@ export const FormsRegistro = ({ handleSetIsLogin }) => {
            leftIcon={<FontAwesomeIcon icon={faUser} className={styles.iconeInput}/>}
            name="nome"
            type="text"
-           title="Nome e Sobrenome"
-           placeholder="Insira seu nome"
+           placeholder="Insira seu nome completo"
            required 
         />
 
@@ -23,7 +22,6 @@ export const FormsRegistro = ({ handleSetIsLogin }) => {
             leftIcon={<FontAwesomeIcon icon={faEnvelope} className={styles.iconeInput}/>}
             name="email"
             type="email"
-            title="Login"
             placeholder="Informe seu email"
             required
         />    
@@ -32,7 +30,6 @@ export const FormsRegistro = ({ handleSetIsLogin }) => {
             leftIcon={<FontAwesomeIcon icon={faLock} className={styles.iconeInput}/>}
             name="senha"
             type="password"
-            title="Senha"
             placeholder="Digite sua senha"
             required
         />  
