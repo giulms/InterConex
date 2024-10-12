@@ -21,7 +21,8 @@ const containerVariants = {
       type: "spring",
       damping: 15,
       stiffness: 150,
-      duration: 1
+      duration: 1,
+      ease: "easeInOut"
     }
   },
 

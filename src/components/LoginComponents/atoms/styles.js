@@ -61,7 +61,7 @@ export const InputContainer = styled.div`
     margin-bottom: 2vh;
     border-radius: 10px;
 
-    filter: drop-shadow(0 4px 2px #333);
+    filter: drop-shadow(0 2px 1px #333);
     transition: 0.1s ease-in-out;
 
     &:hover{
