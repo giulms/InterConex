@@ -1,6 +1,8 @@
+import { motion } from "framer-motion";
 import styled from "styled-components";
 
-export const LoginFormsContainer = styled.div`
+
+export const LoginFormsContainer = styled(motion.div)`
     width: 100%;
     max-width: 50%;
     height: 100%;
@@ -14,7 +16,7 @@ export const LoginFormsContainer = styled.div`
     border-radius: 0 20px 20px 0;
 `
 
-export const RegistroFormsContainer = styled.div`
+export const RegistroFormsContainer = styled(motion.div)`
     width: 100%;
     max-width: 50%;
     height: 100%;
@@ -26,6 +28,63 @@ export const RegistroFormsContainer = styled.div`
 
     background: #F4E9E1;
     border-radius: 20px 0 0 20px;
+`
+
+
+export const LoginSideContainer = styled(motion.div)`
+    width: 100%;
+    max-width: 50%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    background: #280F3E;
+    border-radius: 20px 0 0 20px;
+
+    img{
+        width: 75%;
+        user-select: none;
+        -moz-user-select: none;
+        -webkit-user-drag: none;
+        -webkit-user-select: none;
+        -ms-user-select: none;
+    }
+
+    h1{
+        color: #ffffff;
+        line-height: 20px;
+    }
+`
+
+export const RegistroSideContainer = styled(motion.div)`
+    width: 100%;
+    max-width: 50%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    background: #280F3E;
+    border-radius: 0 20px 20px 0;
+
+    img{
+        width: 75%;
+        user-select: none;
+        -moz-user-select: none;
+        -webkit-user-drag: none;
+        -webkit-user-select: none;
+        -ms-user-select: none;
+    }
+
+    h1{
+        color: #ffffff;
+        line-height: 20px;
+    }
 `
 
 export const LoginRow = styled.div`
@@ -75,51 +134,5 @@ export const TextContainer = styled.div`
         text-align: center;
         line-height: 5px;
         font-size: 14px;
-    }
-`
-
-export const LoginSideContainer = styled.div`
-    width: 100%;
-    max-width: 50%;
-    height: 100%;
-
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-
-    background: #280F3E;
-    border-radius: 20px 0 0 20px;
-
-    img{
-        width: 75%;
-    }
-
-    h1{
-        color: #ffffff;
-        line-height: 20px;
-    }
-`
-
-export const RegistroSideContainer = styled.div`
-    width: 100%;
-    max-width: 50%;
-    height: 100%;
-
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-
-    background: #280F3E;
-    border-radius: 0 20px 20px 0;
-
-    img{
-        width: 75%;
-    }
-
-    h1{
-        color: #ffffff;
-        line-height: 20px;
     }
 `

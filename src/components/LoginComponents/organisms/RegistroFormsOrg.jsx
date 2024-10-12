@@ -7,10 +7,52 @@ import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
 import { RegistroFormsContainer, LFConteudo, TextContainer, RegistroRow } from "./styles"
 import styles from './organisms.module.css';
 
+const containerVariants = {
+  initial: {
+    opacity: 0,
+    x: '40vw'
+  },
+
+  animate: {
+      opacity: 1,
+      x: 0,
+
+    transition: {
+      type: "spring",
+      damping: 15,
+      stiffness: 150,
+      duration: 1
+    }
+  },
+
+  exit:{
+    opacity: 0,
+    x: '40vw',
+    
+    transition: {
+      type: "spring",
+      damping: 15,
+      stiffness: 150,
+      duration: 1
+    }
+  }
+}
+
+
 // eslint-disable-next-line react/prop-types
 export const RegistroForms = ({ handleSetIsLogin }) => {
   return (
-    <RegistroFormsContainer>
+    <RegistroFormsContainer
+      onSubmit={(event) => {
+        event.preventDefault();
+      }}  
+
+      variants={containerVariants}
+      initial="initial"
+      animate="animate"
+      exit="exit"
+      mode="sync"
+    >
         <img src={LogoInterConex} alt="Logo da InterConex" className={styles.logoInterRegistro}/>
 
       <LFConteudo>

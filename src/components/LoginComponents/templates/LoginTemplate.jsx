@@ -1,3 +1,4 @@
+import { AnimatePresence } from "framer-motion";
 import { LoginForms } from "../organisms/LoginFormsOrg"
 import { LoginSide } from "../organisms/LoginSide";
 import { RegistroForms } from "../organisms/RegistroFormsOrg"
@@ -9,6 +10,7 @@ import { TemplateContainer } from './styles';
 export const LoginTemplate = ({ isLogin, handleSetIsLogin }) => {
   return (
   <TemplateContainer>
+    <AnimatePresence>
       {isLogin ?
           (<>
               <LoginSide handleSetIsLogin={handleSetIsLogin}/>
@@ -19,8 +21,8 @@ export const LoginTemplate = ({ isLogin, handleSetIsLogin }) => {
               <RegistroForms/>
               <RegistroSide handleSetIsLogin={handleSetIsLogin}/>
           </>)
-          
       }
+      </AnimatePresence>
     </TemplateContainer>
   )
 }

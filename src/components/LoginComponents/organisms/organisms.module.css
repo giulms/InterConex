@@ -1,15 +1,15 @@
 .logoInterRegistro{
     position: absolute;
-    left: 14vw;
-    top: 13vh;
+    left: 2vw;
+    top: 3vh;
     
     width: 45px;
 }
 
 .logoInterLogin{
     position: absolute;
-    right: 14vw;
-    top: 13vh;
+    right: 2vw;
+    top: 3vh;
     
     width: 45px;
 }
