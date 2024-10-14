@@ -1,0 +1,67 @@
+.logoInterRegistro{
+    position: absolute;
+    left: 2vw;
+    top: 3vh;
+    
+    width: 45px;
+}
+
+.logoInterLogin{
+    position: absolute;
+    right: 2vw;
+    top: 3vh;
+    
+    width: 45px;
+}
+
+.iconesRow{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    font-size: 16px;
+    color: #280F3E;
+    
+    background-color: #FFF;
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+
+    transition: 0.2s ease-in-out;
+
+    &:hover{
+        filter: drop-shadow(1px 1px 3px #280F3E);
+    }
+}
+
+.empresasLink{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: absolute;
+    bottom: 5vh;
+
+    width: 100%;
+    max-width: 60%;
+    height: 5vh;
+    background: transparent;
+
+    border: 2px solid #280F3E;
+    border-radius: 20px;
+    
+    color: #280F3E;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+
+    margin-top: 2vh;
+    transition: 0.2s ease-in-out;
+
+    &:hover{
+        background: #280F3E;
+        color: #ffffff;
+        transform: scale(1.01);
+    }
+}
