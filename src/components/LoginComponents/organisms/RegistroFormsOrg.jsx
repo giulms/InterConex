@@ -6,6 +6,7 @@ import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
 
 import { RegistroFormsContainer, LFConteudo, TextContainer, RegistroRow } from "./styles"
 import styles from './organisms.module.css';
+import { Link } from "react-router-dom";
 
 const containerVariants = {
   initial: {
@@ -64,8 +65,12 @@ export const RegistroForms = () => {
           <a href="#" className={styles.iconesRow}><FontAwesomeIcon icon={faGoogle}/></a>
           <a href="#" className={styles.iconesRow}><FontAwesomeIcon icon={faFacebookF}/></a>
         </RegistroRow>
-
       </LFConteudo>
+
+      <Link to="/cadastro-empresa" className={styles.empresasLink}>
+            É uma empresa/start-up? Cadastre-se!
+      </Link>
+
     </RegistroFormsContainer>
   )
 }
