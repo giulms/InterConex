@@ -99,7 +99,7 @@ Feito com ❤️ por:
 
 <h1>📢 Andamento do Trello</h1>
 
-![image](https://github.com/user-attachments/assets/5ec3e947-9546-4936-be02-001a27cfb31e)
+![image](https://github.com/user-attachments/assets/2d5bb8c7-2c54-4909-9b1d-96ce7304112d)
 
 <br>
 
