@@ -1,30 +1,55 @@
 # 📒 Documentação do Projeto
 ---
 
-Através da disciplina "Fundamentos de Desenvolvimento de Softwares", do 2º período de Análise e Desenvolvimento de Sistemas na CESAR School, desenvolvemos uma aplicação web, implementando DJango e os princípios de CRUD com banco de dados.
+Através da disciplina "Fundamentos de Desenvolvimento de Softwares", do 2º período de Análise e Desenvolvimento de Sistemas na CESAR School, desenvolvemos uma aplicação web, implementando React, NodeJS e os princípios de CRUD com banco de dados.
 
-```Tecnologias Atualizadas:```
-- Figma
-- Trello
+Neste sentido, criamos o InterConex, uma rede social que visa conectar empresas e startups com pessoas que desejam prestar seus serviços, como freelancers. O InterConex proporciona também áreas como investimento nas startups, criação das mesmas e divulgação de serviços que são visualizados pelas empresas que os necessitam!
+
+<br>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2e585671-9441-4b52-9683-d2fbe8688f8d" width="150px" alt="Logo">
+  <img src="https://github.com/user-attachments/assets/9b435761-7e4f-48e9-bd89-96f56e9f3e32" width="150px" alt="Logo">
   <h3>InterConex</h3>
 </div>
 
+### Tecnologias Utilizadas:
+---
+<div style="display: inline_block">
+  <img align="center" alt="CSS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" alt="ReactJS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img align="center" alt="JS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Node" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+</div>
+
+<br>
+
+<div style="display: inline_block">
+  <img align="center" alt="ViteJS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
+  <img align="center" alt="Motion" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg">
+  <img align="center" alt="Express" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
+  <img align="center" alt="Axios" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg">
+</div>
+
+<br>
+
+<div style="display: inline_block">
+  <img align="center" alt="Figma" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+  <img align="center" alt="Trello" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
+  <img align="center" alt="Git" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+</div>
+
+<br>
 <br>
 
 ## 🎲 Etapas do projeto:
 
 🥇 - Na primeira etapa, deveríamos criar um Jira/Trello, que está disponível abaixo nesta documentação, e definir 10 histórias (funções) para nossa aplicação web. A partir destas histórias, deveríamos criar protótipos utilizando de sketches e storyboards, apresentando estes através de screencasts.
 
+🥈 - Na segunda etapa do projeto, implementamos 3 das 10 histórias escolhidas durante a primeira etapa, estas foram: login, pesquisa e filtros. Desenvolvemos as aplicações necessárias para o CRUD destas páginas na pasta ```backend```. Finalizamos o design base de nosso projeto no [Figma](https://www.figma.com/proto/YFHbXhgzsg77vhTPJwqChR/InterConex?node-id=119-846&node-type=frame&t=qZEDj5hIIGY7lsQ8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=119%3A846), definindo o design system, layout das páginas, etc. Criamos também o banco de dados da aplicação, no qual estará hospedado todos os dados de publicações, logins, etc.
+
 <br>
 
-<!--div style="display: inline_block"--><br>
-  <!--img align="center" alt="HTML" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"-->
-  <!--img align="center" alt="CSS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"-->
-  <!--img align="center" alt="JS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"-->
-<!--/div-->
 
 ## 🌐 Autores
 ---
@@ -74,14 +99,22 @@ Feito com ❤️ por:
 
 <h1>📢 Andamento do Trello</h1>
 
-![image](https://github.com/user-attachments/assets/5ec3e947-9546-4936-be02-001a27cfb31e)
+![image](https://github.com/user-attachments/assets/2d5bb8c7-2c54-4909-9b1d-96ce7304112d)
 
 <br>
 
 <h1>📃 Histórias</h1>
 
+<details>
+  <summary><h3>🏅 00 - Home</h3></summary>
 
-https://github.com/user-attachments/assets/d8c92243-84f4-4c5a-8659-6424f1097813
+  ### Versão Inicial: 
+
+  https://github.com/user-attachments/assets/d8c92243-84f4-4c5a-8659-6424f1097813
+
+</details>
+
+
 
 
 <details>
@@ -93,9 +126,8 @@ https://github.com/user-attachments/assets/d8c92243-84f4-4c5a-8659-6424f1097813
   
   ```Confirmação``` -  Através de um formulário inicial, o usuário acrescentará as informações de seu negócio e enviará para o banco de dados do app, gerando seu perfil que poderá ser acessado   por outros usuários.
 
-
+### Versão Inicial: 
 https://github.com/user-attachments/assets/a2f603e9-b130-48b5-92d3-113bac73d4ae
-
   
 </details>
 
@@ -118,7 +150,7 @@ https://github.com/user-attachments/assets/a2f603e9-b130-48b5-92d3-113bac73d4ae
   
   ```Confirmação``` -  Através de uma barra de pesquisa, onde o usuário pode encontrar outras empresas.
 
-
+### Versão Inicial: 
 https://github.com/user-attachments/assets/2085a864-4ff9-44ce-89de-3fb43d8bd698
 
   
@@ -157,7 +189,7 @@ https://github.com/user-attachments/assets/2085a864-4ff9-44ce-89de-3fb43d8bd698
   
   ```Confirmação``` -  Na mesma aba de startups, o usuário/CEO pode acessar por meio de um botão a seção de investimentos, onde pode encontrar um investidor para sua empresa ou ser um investidor para outra empresa.
 
-
+### Versão Inicial: 
 https://github.com/user-attachments/assets/bb559634-dd06-45bb-8df3-f8b61f7efe76
 
   
@@ -194,7 +226,7 @@ https://github.com/user-attachments/assets/bb559634-dd06-45bb-8df3-f8b61f7efe76
   
   ```Confirmação``` -  Na seção de perfil, ou através das abas de contratações e investimentos, haverá um botão que enviará ao destinatário uma solicitação de contato, iniciando um chat na aba de conversas entre o remetente e o destinatário.
 
-
+### Versão Inicial: 
 https://github.com/user-attachments/assets/38c8b973-f085-448a-ada4-b8e93fbb669a
 
 
