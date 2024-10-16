@@ -12,7 +12,7 @@
     align-items: center;
 }
 
-.menuButton, .iconButton {
+.iconButton {
     background: none;
     border: none;
     font-size: 25px;
@@ -35,10 +35,3 @@
     border-radius: 500px;
 }
 
-@media (min-width: 769px) {
-        
-.menuButton {
-      display: none;
-}
-
-}
