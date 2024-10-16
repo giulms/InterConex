@@ -1,5 +1,4 @@
-import React from 'react';
-import './RightSidebar.css';
+import styles from './RightSidebar.module.css'
 
 function RightSidebar() {
   return (

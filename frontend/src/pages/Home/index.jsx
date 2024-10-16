@@ -1,10 +1,15 @@
 import Header from '../../components/Header';
-import Footer from '../../components/Footer';
+import LeftSideBar from '../../components/HomeComponents/LeftSidebar';
+import MainContent from '../../components/HomeComponents/MainContent';
+import RightSidebar from '../../components/HomeComponents/RightSidebar';
+
 
 const Home = () => {
   return (<>
     <Header/>
-    <Footer/>
+    <LeftSideBar/>
+    <MainContent/>
+    <RightSidebar/>
   </>);
 }
 
