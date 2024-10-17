@@ -87,6 +87,13 @@ export const RegistroSideContainer = styled(motion.div)`
     }
 `
 
+export const EmpresaContainer = styled.div`
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 40%;
+`
+
 export const LoginRow = styled.div`
     display: flex;
     flex-direction: row;
@@ -136,3 +143,4 @@ export const TextContainer = styled.div`
         font-size: 14px;
     }
 `
+

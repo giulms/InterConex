@@ -111,6 +111,7 @@ export const InpPrimary = styled.input`
 
 export const ErrorText = styled.p`
     font-size: 12px;
+    font-weight: 700;
     color: red;
     margin: -5px 0 10px 0;
 `

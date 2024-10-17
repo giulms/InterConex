@@ -65,11 +65,12 @@ export const RegistroForms = () => {
           <a href="#" className={styles.iconesRow}><FontAwesomeIcon icon={faGoogle}/></a>
           <a href="#" className={styles.iconesRow}><FontAwesomeIcon icon={faFacebookF}/></a>
         </RegistroRow>
+
+        <Link to="/registro-empresa" className={styles.empresasLink}>
+              É uma empresa/start-up? Cadastre-se!
+        </Link>
       </LFConteudo>
 
-      <Link to="/registro-empresa" className={styles.empresasLink}>
-            É uma empresa/start-up? Cadastre-se!
-      </Link>
 
     </RegistroFormsContainer>
   )
