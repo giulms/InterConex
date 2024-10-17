@@ -1,0 +1,17 @@
+{
+  "name": "interconex-remoto",
+  "version": "1.0.0",
+  "description": "---",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run dev:client --prefix frontend\" \"npm run dev:server --prefix backend\"",
+    "dev:client": "npm start --prefix frontend",
+    "dev:server": "npm start --prefix backend"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^9.0.1"
+  }
+}
