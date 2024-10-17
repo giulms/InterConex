@@ -27,6 +27,18 @@ export const BtnPrimary = styled.button`
         transform: scale(1.01);
         background: #BA68C8;
     }
+
+    &:disabled{
+        background: #CECBC5;
+        color: #280F3E;
+        border: 1px solid #280F3E;
+        cursor: not-allowed;
+
+        &:hover{
+            transform: none;
+            background: #CECBC5;
+        }
+    }
 `
 
 export const BtnSecondary = styled.button`

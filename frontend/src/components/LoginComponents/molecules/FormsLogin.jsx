@@ -22,6 +22,7 @@ const schema = yup.object().shape({
 
 export const FormsLogin = () => {
   const [showPassword, setShowPassword] = useState(false);
+  const [enviando, setEnviando] = useState(false);
   
   const { control, handleSubmit, formState: { errors, isValid } } = useForm({
     resolver: yupResolver(schema),
@@ -32,6 +33,7 @@ export const FormsLogin = () => {
   const navigateFeed = useNavigate();
 
   const onSubmit = async formData => {
+    setEnviando(true);
     try{
       const { data } = await api.get(`/login?email=${formData.email}&password=${formData.senha}`);
 
@@ -40,9 +42,11 @@ export const FormsLogin = () => {
         navigateFeed('/');
       } else {
         alert('Email ou senha inválido');
+        setEnviando(false);
       }
     } catch {
       alert('Houve um erro, tente novamente!');
+      setEnviando(false);
     }
   }
 
@@ -78,7 +82,7 @@ export const FormsLogin = () => {
           />
         }
       />  
-        <ButtonPrimary type="submit" title="Entrar" disabled={!isValid}/>
+        <ButtonPrimary type="submit" title={enviando ? 'Entrando...' : 'Entrar'} disabled={!isValid || enviando}/>
     </form>
   )
 }

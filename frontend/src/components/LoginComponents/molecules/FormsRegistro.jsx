@@ -30,6 +30,7 @@ const schema = yup.object().shape({
 
 export const FormsRegistro = () => {
   const [showPassword, setShowPassword] = useState(false);
+  const [enviando, setEnviando] = useState(false);
 
   const { control, handleSubmit, reset, formState: { errors, isValid } } = useForm({
     resolver: yupResolver(schema),
@@ -37,6 +38,7 @@ export const FormsRegistro = () => {
   })
 
   const onSubmit = async (data) => {
+    setEnviando(true);
     try{
       await api.post('/usuarios', {
         name: data.nome,
@@ -46,6 +48,7 @@ export const FormsRegistro = () => {
 
       reset();
     } catch (error){
+      setEnviando(false);
       console.error('Erro ao enviar dados: ', error)
     }
   }
@@ -92,7 +95,7 @@ export const FormsRegistro = () => {
               />
           }
         />  
-            <ButtonPrimary type="submit" title="Registrar" disabled={!isValid}/>
+            <ButtonPrimary type="submit" title={enviando ? 'Cadastrando...' : 'Cadastrar'} disabled={!isValid || enviando}/>
     </form>
   )
 }
