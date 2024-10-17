@@ -1,8 +1,8 @@
-
+import RegistroEmpresasTemp from "../../components/LoginComponents/templates/RegistroEmpresasTemp"
 
 const RegistroEmpresas = () => {
   return (
-    <div>RegistroEmpresas</div>
+    <RegistroEmpresasTemp/>
   )
 }
 
