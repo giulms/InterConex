@@ -67,7 +67,7 @@ export const RegistroForms = () => {
         </RegistroRow>
       </LFConteudo>
 
-      <Link to="/cadastro-empresa" className={styles.empresasLink}>
+      <Link to="/registro-empresa" className={styles.empresasLink}>
             É uma empresa/start-up? Cadastre-se!
       </Link>
 
