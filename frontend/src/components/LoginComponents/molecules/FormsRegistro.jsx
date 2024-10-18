@@ -48,8 +48,9 @@ export const FormsRegistro = () => {
 
       reset();
     } catch (error){
-      setEnviando(false);
       console.error('Erro ao enviar dados: ', error)
+    } finally {
+      setEnviando(false);
     }
   }
 
