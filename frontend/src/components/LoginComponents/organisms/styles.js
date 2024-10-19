@@ -87,7 +87,7 @@ export const RegistroSideContainer = styled(motion.div)`
     }
 `
 
-export const EmpresaContainer = styled.div`
+export const EmpresaContainer = styled(motion.div)`
     display: flex;
     flex-direction: column;
     width: 100%;
