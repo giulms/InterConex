@@ -13,11 +13,27 @@
   background-color: #532567;
   border-radius: 30px;
   border: none;
-  padding: 5px 15px;
+  padding: 5px 10px;
   color: white;
-  margin: 8px 0px;
+  margin: 8px 5px;
   font-family: "Poppins", sans-serif;
   font-size: 15px;
   cursor: pointer;
-  margin-left: 10px;
+  white-space: nowrap;
+}
+
+@media (min-width: 320px) {
+  .filtroContainer {
+    gap: 20px;
+  }
+}
+@media (min-width: 640px) {
+  .filtroContainer {
+    gap: 30px;
+  }
+}
+@media (min-width: 768px) {
+  .filtroContainer {
+    gap: 40px;
+  }
 }

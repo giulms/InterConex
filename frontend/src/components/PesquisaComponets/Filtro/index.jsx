@@ -18,7 +18,7 @@ function Filtro() {
 
   useEffect(() => {
     const handleResize = () => {
-      setIsMobile(window.innerWidth < 1025);
+      setIsMobile(window.innerWidth < 1160);
     };
 
     handleResize();
@@ -40,9 +40,9 @@ function Filtro() {
               slidesPerView: 2,
               spaceBetween: 10,
             },
-            640: {
+            600: {
               slidesPerView: 3,
-              spaceBetween: 10,
+              spaceBetween: 5,
             },
             768: {
               slidesPerView: 4,
