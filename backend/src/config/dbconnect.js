@@ -1,7 +1,7 @@
 import mongoose, { mongo } from "mongoose";
 
 async function conectaBanco(){
-    mongoose.connect("mongodb+srv://admin:15243@cluster0.asnuy.mongodb.net/InterDB?retryWrites=true&w=majority&appName=Cluster0");
+    mongoose.connect(process.env.DB_CONNECTION_STRING);
 
     return mongoose.connection;
 };
