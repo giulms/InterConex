@@ -5,20 +5,21 @@ export default function LeftSidebar() {
     <div className={styles['left-sidebar']}>
       <div className={styles.ranking}>
         <h2>Ranking de Empresas</h2>
-        {[1, 2, 3, 4, 5].map((num) => (
+          {[1, 2, 3, 4, 5].map((num) => (
           <div key={`company-${num}`} className={styles['ranking-item']}>
-            <img src={`/placeholder.svg?height=30&width=30`} alt={`Company ${num}`} />
+            <img src={`/placeholder.svg?height=30&width=30`} alt=''/>
             <span>Empresa</span>
             <span className={styles.position}>{num}st</span>
           </div>
         ))}
         <button className={styles['view-all']}>Ver tudo...</button>
       </div>
+
       <div className={styles.ranking}>
         <h2>Ranking de Startups</h2>
         {[1, 2, 3, 4, 5].map((num) => (
           <div key={`startup-${num}`} className={styles['ranking-item']}>
-            <img src={`/placeholder.svg?height=30&width=30`} alt={`Startup ${num}`} />
+            <img src={`/placeholder.svg?height=30&width=30`} alt='' />
             <span>Startup</span>
             <span className={styles.position}>{num}st</span>
           </div>
