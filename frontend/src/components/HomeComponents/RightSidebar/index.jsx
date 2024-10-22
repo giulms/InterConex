@@ -6,7 +6,7 @@ export default function RightSidebar() {
       <h2>Sugestões para você</h2>
       {[1, 2, 3, 4, 5].map((num) => (
         <div key={`suggestion-${num}`} className={styles['suggestion-item']}>
-          <img src={`/placeholder.svg?height=40&width=40`} alt={`Suggestion ${num}`} />
+          <img src={`/placeholder.svg?height=40&width=40`} alt=''/>
           <div className={styles['suggestion-info']}>
             <h3>Usuário</h3>
             <p>Descrição do usuário</p>
@@ -15,6 +15,7 @@ export default function RightSidebar() {
         </div>
       ))}
       <button className={styles['view-all']}>Ver tudo...</button>
+      <p className={styles['end-text']}>Interconex © Todos direitos reservados.</p>
     </div>
   )
 }

@@ -1,0 +1,6 @@
+.divGeral{
+    display: flex;
+    margin-top: 25px;
+    gap: 30px;
+    padding: 15px;
+}
